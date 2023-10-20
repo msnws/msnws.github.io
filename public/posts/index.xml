@@ -9,10 +9,10 @@
     <lastBuildDate>Fri, 20 Oct 2023 15:18:56 -0500</lastBuildDate><atom:link href="http://msnws.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
-      <link>http://msnws.github.io/posts/example/</link>
+      <link>http://msnws.github.io/posts/hello/</link>
       <pubDate>Fri, 20 Oct 2023 15:18:56 -0500</pubDate>
       
-      <guid>http://msnws.github.io/posts/example/</guid>
+      <guid>http://msnws.github.io/posts/hello/</guid>
       <description>Hey everyone! I&amp;rsquo;m currently moving my blog over to Hugo as opposed to write.bz. I like write.bz, and while it might be tough losing federation, I think that this is the best move for the blog moving forward. I&amp;rsquo;ll be moving all of my posts over at some point in the near term future.</description>
     </item>
     
