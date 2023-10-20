@@ -1,0 +1,9 @@
+[submodule "themes/hugo-bearcub"]
+	path = themes/hugo-bearcub
+	url = https://github.com/clente/hugo-bearcub
+[submodule "msnws/themes/hugo-bearcub"]
+	path = msnws/themes/hugo-bearcub
+	url = https://github.com/clente/hugo-bearcub
+[submodule "msnws/themes/hugo-bearblog"]
+	path = msnws/themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
