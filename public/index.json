@@ -1,0 +1,32 @@
+
+{
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+        
+        
+        
+    
+        
+        
+        
+    
+        
+        
+        
+    
+    "articles": [{"date":"2023-10-22","image":"","imageAlt":"","link":"msnws.github.io/posts/hello/","summary":"Hey everyone! I\u0026rsquo;m currently moving my blog over to Hugo as opposed to write.bz. I like write.bz, and while it might be tough losing federation, I think that this is the best move for the blog moving forward. I\u0026rsquo;ll be moving all of my posts over at some point in the near term future.","tags":[],"title":"New Blog, Who Dis?"},{"date":"2023-07-26","image":"","imageAlt":"","link":"msnws.github.io/posts/an-introductory-post/","summary":"An Introductory Post Hello -\nBear with me since this is my first blog post. I’ll try to keep it short and sweet.\nMy name is Mason. I’m a creative living in Chicago. I use the vague word “creative” here because I’m a bit of a Jack of all trades, master of none. Basically, my ideas to output ratio is very low (likely as a result of my ADHD). A lot of different mediums resonate with me, but I have trouble seeing things through.","tags":[],"title":"An Introductory Post"},{"date":"0001-01-01","image":"","imageAlt":"","link":"msnws.github.io/manifest/index.json","summary":"","tags":[],"title":"Manifest"},{"date":"0001-01-01","image":"","imageAlt":"","link":"msnws.github.io/search/","summary":"","tags":[],"title":"Search"}],
+    "test": "New Blog, Who Dis?   An Introductory Post   Manifest   Search   ",
+    "page": "1",
+    "next": ""
+}
+
