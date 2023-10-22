@@ -7,3 +7,6 @@
 [submodule "msnws/themes/hugo-bearblog"]
 	path = msnws/themes/hugo-bearblog
 	url = https://github.com/janraasch/hugo-bearblog.git
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
