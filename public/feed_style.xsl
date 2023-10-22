@@ -9,7 +9,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
         <meta charset="UTF-8"/>
         
-        <link type="text/css" rel="stylesheet" href="/msnws.github.io/css/styles.9ebc058c7bdd8717e9c396501989889170aae4d92e8489d6ad3780348c40a97f833ee1c58da4e0c463ba45bbc6037b304a784d1a4f280f9581de6fbfa9f9b1d7.css" integrity="sha512-nrwFjHvdhxfpw5ZQGYmIkXCq5NkuhInWrTeANIxAqX+DPuHFjaTgxGO6RbvGA3swSnhNGk8oD5WB3m+/qfmx1w==" />
+        <link type="text/css" rel="stylesheet" href="/msnws.online/css/styles.9ebc058c7bdd8717e9c396501989889170aae4d92e8489d6ad3780348c40a97f833ee1c58da4e0c463ba45bbc6037b304a784d1a4f280f9581de6fbfa9f9b1d7.css" integrity="sha512-nrwFjHvdhxfpw5ZQGYmIkXCq5NkuhInWrTeANIxAqX+DPuHFjaTgxGO6RbvGA3swSnhNGk8oD5WB3m+/qfmx1w==" />
         <style>
           .aboutfeeds {
             margin: 24px 0; padding: 12px;
