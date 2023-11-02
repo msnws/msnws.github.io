@@ -3,7 +3,7 @@ title = 'Now and Then - The Beatles in 2023'
 date = 2023-11-02T11:45:28-05:00
 draft = false
 comments = false
-image = "/images/post_pics/now-and-then.JPG"
+image = "/images/now-and-then.JPG"
 
 +++
 
