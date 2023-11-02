@@ -3,8 +3,7 @@ title: 'Threads'
 date: 2023-07-06T13:47:28-05:00
 draft: false
 comments: false
-tags:
-- socialmedia 
+tags: ["social media"]
 ---
 
 This will be my only post about Threads since I don’t care to give it the time or attention it doesn’t need. 
