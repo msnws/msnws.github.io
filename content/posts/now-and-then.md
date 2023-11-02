@@ -1,11 +1,10 @@
-+++
-title = 'Now and Then - The Beatles in 2023'
-date = 2023-11-02T11:45:28-05:00
-draft = false
-comments = false
-image = "/images/now-and-then.JPG"
-
-+++
+---
+title: 'Now and Then - The Beatles in 2023'
+date: 2023-11-02T11:45:28-05:00
+draft: false
+comments: false
+image: "/images/now-and-then.JPG"
+---
 
 Wow. Kind of an emotionally charged listen. As a long-time fan of the Beatles, I think [the story behind this song](https://youtu.be/APJAQoSCwuA?si=jnNf0CDD8tPH0Us7) is really touching, and to think that... 
 
@@ -21,6 +20,6 @@ I guess I'd also be remiss not to mention that the mixing felt a little off. I d
 
 All the same, it was touching, dreamy, and new music from the Beatles. C'mon! How can I really complain? 
 
----
 
-Listen [here](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7?si=9DqNslHWSrmVBzJvh-twpA) on Spotify or [here](https://music.apple.com/us/album/now-and-then/1713197371?i=1713197541) on Apple Music. 
+
+*Listen [here](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7?si=9DqNslHWSrmVBzJvh-twpA) on Spotify or [here](https://music.apple.com/us/album/now-and-then/1713197371?i=1713197541) on Apple Music.* 
