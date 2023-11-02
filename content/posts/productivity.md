@@ -4,9 +4,9 @@ date: 2023-08-31T13:50:56-05:00
 draft: false
 comments: false
 tags:
-	- productivity
-	-	adhd
-	- mentalhealth
+- productivity
+-	adhd
+- mentalhealth
 ---
 
 Just wanted to lay out a thought that’s been bouncing around my head now for a while.

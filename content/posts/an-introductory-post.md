@@ -4,8 +4,8 @@ date: 2023-06-29T13:22:29-05:00
 draft: false
 comments: false
 tags:
-	- personal
-	-	update
+- personal
+-	update
 ---
 
 Hello - 

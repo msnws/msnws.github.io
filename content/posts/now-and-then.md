@@ -4,6 +4,8 @@ date: 2023-11-02T11:45:28-05:00
 draft: false
 comments: false
 image: "/images/now-and-then.JPG"
+tags: 
+- music 
 ---
 
 Wow. Kind of an emotionally charged listen. As a long-time fan of the Beatles, I think [the story behind this song](https://youtu.be/APJAQoSCwuA?si=jnNf0CDD8tPH0Us7) is really touching, and to think that... 
