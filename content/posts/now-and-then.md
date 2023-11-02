@@ -5,7 +5,7 @@ draft = false
 comments = false
 +++
 
-![Now and Then](/static/img/now-and-then.jpg)
+![Now and Then](/img/now-and-then.jpg)
 
 Wow. Kind of an emotionally charged listen. As a long-time fan of the Beatles, I think [the story behind this song](https://youtu.be/APJAQoSCwuA?si=jnNf0CDD8tPH0Us7) is really touching, and to think that... 
 
