@@ -1,9 +1,13 @@
-+++
-title = 'An Introductory Post'
-date = 2023-06-29T13:22:29-05:00
-draft = false
-comments = false
-+++
+---
+title: 'An Introductory Post'
+date: 2023-06-29T13:22:29-05:00
+draft: false
+comments: false
+tags:
+	- personal
+	-	update
+---
+
 Hello - 
 
 Bear with me since this is my first blog post. I’ll try to keep it short and sweet. 

@@ -1,9 +1,12 @@
-+++
-title = 'Threads'
-date = 2023-07-06T13:47:28-05:00
-draft = false
-comments = false
-+++
+---
+title: 'Threads'
+date: 2023-07-06T13:47:28-05:00
+draft: false
+comments: false
+tags:
+	- socialmedia 
+---
+
 This will be my only post about Threads since I don’t care to give it the time or attention it doesn’t need. 
 
 As it stands right now, it feels chaotic and impersonal. While Mastodon feels like a nice community where I follow real blogs (micro as they may be) that I’m interested in. Threads feels like the old social media dick measuring contest to see who can make the most bottom-of-the-barrel joke the fastest and subsequently rake in the most likes/reposts the fastest.  
