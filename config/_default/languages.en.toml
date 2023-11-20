@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "msnws"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2006-01-02"
+ # logo = "img/blowfish_logo_transparent.png"
+  # secondaryLogo = "PATH"
+  description = "Just One Guy's Musings"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "msnws"
+  image = "profilepic.png"
+  headline = "Welcome to my blog 👋"
+  bio = "A little bit about me"
+  links = [
+      { mastodon = "https://masto.to/@msnws" },
+      { music = "https://linktr.ee/violetnoise"}
+
+  ]

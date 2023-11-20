@@ -1,0 +1,30 @@
+[[main]]
+  name = "About"
+  pageRef = "about.md"
+  weight = 10
+
+[[main]]
+	identifier = "rss"
+	pre = "rss"
+	url = "https://www.msnws.online/index.xml"
+	weight = 100
+
+[[main]]
+  identifier = "mastodon"
+  pre = "mastodon"
+  url = "https://mas.to/@msnws"
+  weight = 200
+  
+[[main]]
+	identifier = "My Music"
+	pre = "music"
+	url = "https://linktr.ee/violetnoise"
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+ [[footer]]
+   name = "Tags"
+   pageRef = "tags"
+   weight = 10

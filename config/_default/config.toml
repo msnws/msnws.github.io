@@ -1,0 +1,45 @@
+baseURL = "msnws.online"
+theme = "blowfish"
+copyright = "Mason Weis (CC BY 4.0)"
+defaultContentLanguage = "en"
+
+paginate = 100
+summaryLength = 20
+
+[outputs]
+ home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+	tag = "tags"
+	categories =  "categories"
+	author = "authors"
+	series = "series"
+	
+[sitemap]
+	changefreq = "always"
+	filename = "sitemap.xml"
+	priority = 0.5
+
+[related]
+  threshold = 0
+  toLower = false
+
+    [[related.indices]]
+        name = "tags"
+        weight = 100
+
+    [[related.indices]]
+        name = "categories"
+        weight = 100
+
+    [[related.indices]]
+        name = "series"
+        weight = 50
+
+    [[related.indices]]
+        name = "date"
+        weight = 10
+
+	
+
+	
