@@ -7,8 +7,6 @@ tags: ["social media"]
 
 Happy Thanksgiving to those of you in the U.S.!
 
-—-
-
 After Twitter imploded when Elon took over, I made the switch and became a pretty active user of [Mastodon](https://mas.to/@msnws). All told, I haven’t been the biggest fan of Mastodon since joining almost a year ago as of my writing this. 
 
 This is almost entirely a me thing, but I find a lot of the people I’ve come across on Mastodon to always be at least one degree of separation away from whatever demographic I’m a part of. I’m not a programmer, I’m not into kink or furry content, and I’m not an older Millennial or Gen Xer who is incapable of posting about anything other than Elon Musk. I’m sure this is largely down to the fact that I joined a larger instance, but I find a lot of the smaller instances to be too niche. Admittedly, I haven’t done a lot of looking around, but still…
